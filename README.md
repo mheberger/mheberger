@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @mheberger, Matthew Heberger, currently a PhD candidate at Sorbonne University in Paris, France. 
+- 👋 Hi, I’m @mheberger, Matthew Heberger, currently a hydrologist at the San Francisco Estuary Institute in Richmond, California.
+- 🎓 In 2024, I earned a PhD in hydrology and remote sensing at Sorbonne University in Paris, France. 
 - 👀 I’m interested in earth science, hydrology, remote sensing, statistics, modeling, and artificial intelligence. 
 
-- 📫 How to reach me ... matthew.heberger@obspm.fr. 
+- 📫 How to reach me ... mheberger@gmail.com
 
 <!---
 mheberger/mheberger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
